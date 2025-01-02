@@ -1,0 +1,12 @@
+<<<<<<< Updated upstream
+[submodule "libs/analyze"]
+	path = libs/analyze
+	url = https://github.com/likecodingloveproblems/analyze
+=======
+[submodule "analyze-submodule"]
+	path = libs/analyze
+	url = https://github.com/likecodingloveproblems/analyze
+[submodule "optimization-algorithm-submodule"]
+	path = libs/optimization-algorithms
+	url = https://github.com/likecodingloveproblems/optimization-algorithms
+>>>>>>> Stashed changes
